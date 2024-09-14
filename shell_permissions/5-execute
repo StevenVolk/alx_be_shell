@@ -1,3 +1,2 @@
 #!/bin/bash
-touch hello
-chmod o+x
+chmod o+x hello
